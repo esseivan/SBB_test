@@ -1,0 +1,10 @@
+C:\WorkSpace\Github\CSharp_beginner\SBBTest\SBBTest\bin\Debug\SBBTest.exe.config
+C:\WorkSpace\Github\CSharp_beginner\SBBTest\SBBTest\bin\Debug\SBBTest.exe
+C:\WorkSpace\Github\CSharp_beginner\SBBTest\SBBTest\bin\Debug\SBBTest.pdb
+C:\WorkSpace\Github\CSharp_beginner\SBBTest\SBBTest\obj\Debug\SBBTest.csprojAssemblyReference.cache
+C:\WorkSpace\Github\CSharp_beginner\SBBTest\SBBTest\obj\Debug\SBBTest.Form1.resources
+C:\WorkSpace\Github\CSharp_beginner\SBBTest\SBBTest\obj\Debug\SBBTest.Properties.Resources.resources
+C:\WorkSpace\Github\CSharp_beginner\SBBTest\SBBTest\obj\Debug\SBBTest.csproj.GenerateResource.cache
+C:\WorkSpace\Github\CSharp_beginner\SBBTest\SBBTest\obj\Debug\SBBTest.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Github\CSharp_beginner\SBBTest\SBBTest\obj\Debug\SBBTest.exe
+C:\WorkSpace\Github\CSharp_beginner\SBBTest\SBBTest\obj\Debug\SBBTest.pdb
